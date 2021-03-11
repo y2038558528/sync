@@ -1,4 +1,4 @@
-name: ziye-sync
+name: 同步ziye仓库
 on:
   schedule:
     - cron: '1 */3 * * *'
