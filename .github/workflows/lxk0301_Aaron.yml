@@ -1,4 +1,4 @@
-name: lxk0301-jd_scripts
+name: 二次同步lxk0301-jd_scripts
 on:
   schedule:
     - cron: '28 */3 * * *'
