@@ -1,0 +1,28 @@
+name: lxk0301-jd_scripts
+on:
+  schedule:
+    - cron: '28 */3 * * *'
+  workflow_dispatch:
+  watch:
+    types: started
+  repository_dispatch:
+    types: sync-https://github.com/Aaron-lv/sync.git
+jobs:
+  repo-sync:
+    env:
+      PAT: ${{ secrets.PAT }} 
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: sync Aaron-lv-jd_scripts
+        uses: repo-sync/github-sync@v2
+        if: env.PAT
+        with:
+          source_repo: "https://github.com/Aaron-lv/sync.git"
+          source_branch: "jd_scripts"
+          destination_branch: "lxk_jd_scripts"
+          github_token: ${{ secrets.PAT }}
