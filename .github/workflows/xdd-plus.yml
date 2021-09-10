@@ -1,12 +1,12 @@
-name: 同步mshufflewzc/faker2仓库
+name: 同步764763903a/xdd-plus仓库
 on:
   schedule:
-    - cron: '25 */6 * * *'
+    - cron: '36 */8 * * *'
   workflow_dispatch:
   watch:
     types: started
   repository_dispatch:
-    types: sync-shufflewzc-faker2
+    types: sync-764763903a-xdd-plus
 jobs:
   repo-sync:
     env:
@@ -18,11 +18,11 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync shufflewzc-faker2
+      - name: sync 764763903a-xdd-plus
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/shufflewzc/faker2.git"
+          source_repo: "https://github.com/764763903a/xdd-plus.git"
           source_branch: "main"
-          destination_branch: "faker"
+          destination_branch: "xdd-plus"
           github_token: ${{ secrets.PAT }}
