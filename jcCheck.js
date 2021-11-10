@@ -35,7 +35,7 @@ let iku = {
 
 let jj = {
   email: "ywk2000",
-  pwd: "",
+  pwd: "poilkj09",
 };
 
 const $ = new Env("机场签到");
