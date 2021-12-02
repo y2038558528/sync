@@ -22,5 +22,5 @@ fi
 
 ### 将文件放到/usr/ 目录下
 ### cronetab -e
-### 添加内容 6-59/15 * * * * sh /usr/share/net_watchdog.sh
+### 添加内容 6-59/15 * * * * /usr/share/net_watchdog.sh
 ### reboot -nf 为强制不保存信息重启.如不正常可修改为 reboot
