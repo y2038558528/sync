@@ -22,5 +22,5 @@ fi
 
 ### 将文件放到/usr/share/ 目录
 ### crontab -e
-### 添加内容 1-59/5 * * * * /usr/net_watchdog.sh
+### 添加内容 1-59/5 * * * * /usr/share/net_watchdog.sh
 ### reboot -nf 为强制不保存信息重启 如不正常可修改为 reboot
