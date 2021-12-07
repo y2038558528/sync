@@ -1,14 +1,13 @@
 #!/usr/bin/env bash
-## Mod: Build2021201V1
+## Mod: Build20211207
 ## 添加你需要重启自动执行的任意命令，比如 ql repo
 ## 安装node依赖使用 pnpm install -g xxx xxx（Build 20210728-002 及以上版本的 code.sh，可忽略）
 ## 安装python依赖使用 pip3 install xxx（Build2021125V1 及以上版本的 extra.sh，可忽略）
 
 #------ 说明区 ------#
 ## 1. 拉取仓库
-### （1）定时任务→添加定时→命令【ql extra】→定时规则【15 0-23/4 * * *】→运行
-### （2）若运行过 1custom 一键脚本，点击运行即可
-### （3）推荐配置：如下。自行在设置区填写编号
+### （1）定时任务→添加定时→命令【ql extra】→定时规则【34 1-23/4 * * *】→运行
+### （2）推荐配置：如下。自行在设置区填写编号
 ## 2. 安装依赖
 ### （1）默认不安装nodejs依赖，因为 Build 20210728-002 及以上版本的 code.sh 自动检查修复依赖
 ### （2）若需要在此处使用，请在设置区设置
@@ -20,7 +19,7 @@
 # shellcheck disable=SC2005
 ## 1. 拉取仓库或脚本编号设置，默认 shufflewzc 仓库
 CollectedRepo=(8) ##示例：CollectedRepo=(2 4 6)
-OtherRepo=(1 3 4 6 9 10 11 12 0)      ##示例：OtherRepo=(1 3 0)
+OtherRepo=(2 4 9 11 0)      ##示例：OtherRepo=(1 3 0)
 RawScript=(1 2)   ##示例：RawScript=(1 2)
 ## 2. 是否安装依赖和安装依赖包的名称设置
 dependencies="al py pl" ##yes为全部安装，no为不安装，al为安装alpine依赖，py为安装python依赖，js为安装nodejs依赖，pl为安装perl依赖
@@ -65,16 +64,16 @@ CR2() {
     ql repo https://github.com/JDHelloWorld/jd_scripts.git "jd_|jx_|getJDCookie" "backUp" "^jd[^_]|USER|utils|sendNotify|^TS|JD_"
 }
 CR3() {
-    ql repo https://github.com/he1pu/JDHelp.git "jd_|jx_|getJDCookie" "activity|backUp|Coupon" "^jd[^_]|USER|utils|sendNotify|ZooFaker|JDJRValidator_|^sign"
+    ql repo https://github.com/he1pu/JDHelp.git "jd_|jx_|getJDCookie" "activity|backUp|jd_delCoupon" "^jd[^_]|USER|utils|sendNotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate"
 }
 CR4() {
-    ql repo https://github.com/shufflewzc/faker2.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp|Coupon" "^jd[^_]|USER|sendNotify|function|utils|JDJRValidator_|ZooFaker|^sign"
+    ql repo https://github.com/shufflewzc/faker2.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendnotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql"
 }
 CR6() {
     ql repo https://github.com/Aaron-lv/sync.git "jd_|jx_|getJDCookie" "activity|backUp|Coupon" "^jd[^_]|USER|utils|sendNotify|JD_" "jd_scripts"
 }
 CR8() {
-    ql repo https://github.com/shufflewzc/faker3.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp|Coupon" "^jd[^_]|USER|sendNotify|function|utils|JDJRValidator_|ZooFaker|^sign"
+    ql repo https://github.com/shufflewzc/faker3.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendnotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql"
 }
 for i in "${CollectedRepo[@]}"; do
     CR"$i"
@@ -121,7 +120,7 @@ OR13() {
     ql repo https://github.com/Mashiro2000/HeyTapTask.git "" "Backup|index|HT.*|sendNotify" "HT_config|sendNotify"
 }
 OR0() {
-    ql repo https://github.com/ccwav/QLScript2.git "jd_" "NoUsed" "ql|sendNotify|utils|USER|jdCookie"
+    ql repo https://github.com/ccwav/QLScript2.git "jd_" "NoUsed" "ql|sendNotify|utils|USER_AGENTS|jdCookie|JS_USER_AGENTS"
 }
 for i in "${OtherRepo[@]}"; do
     OR"$i"
