@@ -3,7 +3,7 @@
             "name": "肥皂 应用订阅",
             "author": "@feizao",
             "icon": "https://s3.ax1x.com/2021/02/17/ygLAIA.jpg",
-            "repo": "https://github.com/age174/-",
+            "repo": "https://github.com/sync/feizao",
             "apps": [{
             "id": "dkd",
             "name": "多看点",
@@ -23,9 +23,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/dkd.js",
+            "repo": "https://raw.githubusercontent.com/y2038558528/sync/feizao/dkd.js",
             "icons": ["https://gitee.com/ydj0602/hym/raw/img/DKD.PNG", "https://gitee.com/ydj0602/hym/raw/img/DKD.PNG"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/dkd.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/dkd.js"
     },
     {
             "id": "zmsp",
@@ -46,9 +46,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/zmsp.js",
+            "repo": "https://raw.githubusercontent.com/y2038558528/sync/feizao/zmsp.js",
             "icons": ["https://s3.ax1x.com/2021/02/06/yYzeWn.png", "https://s3.ax1x.com/2021/02/06/yYzeWn.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/zmsp.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/zmsp.js"
     },
     {
             "id": "wnb",
@@ -69,9 +69,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/wnb.js",
+            "repo": "https://raw.githubusercontent.com/y2038558528/sync/feizao/wnb.js",
             "icons": ["https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg", "https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/wnb.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/wnb.js"
     },
     {
             "id": "ymz",
@@ -92,9 +92,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/ymz.js",
+            "repo": "https://raw.githubusercontent.com/y2038558528/sync/feizao/ymz.js",
             "icons": ["https://s3.ax1x.com/2021/02/06/yYzYWR.png", "https://s3.ax1x.com/2021/02/06/yYzYWR.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ymz.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/ymz.js"
     },
     {
             "id": "jqb",
@@ -115,9 +115,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/jqb.js",
+            "repo": "https://raw.githubusercontent.com/y2038558528/sync/feizao/jqb.js",
             "icons": ["https://github.com/Patrick0108/qx/raw/master/jqb.png", "https://github.com/Patrick0108/qx/raw/master/jqb.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/jqb.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/jqb.js"
     },  {
             "id": "sz",
             "name": "闪挣",
@@ -137,9 +137,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/sz.js",
+            "repo": "https://raw.githubusercontent.com/y2038558528/sync/feizao/sz.js",
             "icons": ["https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg", "https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/sz.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/sz.js"
     },
 	{
             "id": "bsxq",
@@ -162,7 +162,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/baosxq.js",
             "icons": ["https://s3.ax1x.com/2021/02/10/y0rDPg.png", "https://s3.ax1x.com/2021/02/10/y0rDPg.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/baosxq.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/baosxq.js"
     },{
             "id": "rxm",
             "name": "任性猫",
@@ -184,7 +184,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/rxm.js",
             "icons": ["https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z005.png", "https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z005.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/rxm.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/rxm.js"
     },{
             "id": "mh",
             "name": "陌嗨视频",
@@ -206,7 +206,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/mhdsp.js",
             "icons": ["https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png", "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/mhdsp.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/mhdsp.js"
     },
     {
             "id": "fqkk",
@@ -247,7 +247,7 @@
               }],
             "repo": "https://github.com/age174/-/blob/main/fqkk.js",
             "icons": ["https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg", "https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/fqkk.js"
     },
     {
             "id": "yyxs",
@@ -270,7 +270,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/yyxs.js",
             "icons": ["https://s3.ax1x.com/2021/02/27/6pouiF.jpg", "https://s3.ax1x.com/2021/02/27/6pouiF.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/yyxs.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/yyxs.js"
     },
     {
             "id": "dka",
@@ -293,7 +293,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/dka.js",
             "icons": ["https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg", "https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/dka.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/dka.js"
     } ,
     {
             "id": "ysm",
@@ -345,7 +345,7 @@
               }],
             "repo": "https://github.com/age174/-/blob/main/ysm.js",
             "icons": ["https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png", "https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/ysm.js"
     } ,
     {
             "id": "xsmm",
@@ -382,7 +382,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/xsmm.js",
             "icons": ["https://s3.ax1x.com/2021/03/03/6E17fU.jpg", "https://s3.ax1x.com/2021/03/03/6E17fU.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/xsmm.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/xsmm.js"
     },
     {
             "id": "ddxq",
@@ -405,7 +405,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/ddxq.js",
             "icons": ["https://s3.ax1x.com/2021/03/04/6E5k0H.jpg", "https://s3.ax1x.com/2021/03/04/6E5k0H.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ddxq.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/ddxq.js"
     } ,
     {
             "id": "yggy",
@@ -428,7 +428,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/yggy.js",
             "icons": ["https://ae01.alicdn.com/kf/Ubf3bd5e9c2414c18a96a3a2b20a9d2c5C.jpg", "https://ae01.alicdn.com/kf/Ubf3bd5e9c2414c18a96a3a2b20a9d2c5C.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/yggy.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/yggy.js"
     },
     {
             "id": "xyzd",
@@ -451,7 +451,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/xyzd.js",
             "icons": ["https://ae01.alicdn.com/kf/U1680ecdfa17544669c71e00400c542e31.jpg", "https://ae01.alicdn.com/kf/U1680ecdfa17544669c71e00400c542e31.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/xyzd.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/xyzd.js"
     } ,
     {
             "id": "hldsp",
@@ -474,7 +474,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/hldsp.js",
             "icons": ["https://ae01.alicdn.com/kf/Uda8ecbbe50444fe293b538cbccf9d719q.jpg", "https://ae01.alicdn.com/kf/Uda8ecbbe50444fe293b538cbccf9d719q.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/hldsp.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/hldsp.js"
     } ,
     {
             "id": "cfz",
@@ -503,7 +503,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/cfz.js",
             "icons": ["https://ae01.alicdn.com/kf/U8a3a2572bf5d4584928d1d7cde52b50ba.jpg", "https://ae01.alicdn.com/kf/U8a3a2572bf5d4584928d1d7cde52b50ba.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/cfz.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/cfz.js"
     } ,
     {
             "id": "wkzz",
@@ -520,7 +520,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/wkzz.js",
             "icons": ["https://ae01.alicdn.com/kf/Uff0a0bb9e66a479591c9b02c176fd276A.jpg", "https://ae01.alicdn.com/kf/Uff0a0bb9e66a479591c9b02c176fd276A.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/wkzz.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/wkzz.js"
     } ,
     {
             "id": "llyd",
@@ -543,7 +543,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/66yd.js",
             "icons": ["https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg", "https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/66yd.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/66yd.js"
     },
     {
             "id": "wcyd",
@@ -587,7 +587,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/wcyd.js",
             "icons": ["https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg", "https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/wcyd.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/wcyd.js"
     } ,
     {
             "id": "wcxcx",
@@ -610,7 +610,7 @@
             }],
             "repo": "https://github.com/age174/-/blob/main/wcxcx.js",
             "icons": ["https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg", "https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/wcxcx.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/wcxcx.js"
     },
     {
             "id": "ximei",
@@ -633,7 +633,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/ximei.js",
             "icons": ["https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg", "https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ximei.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/ximei.js"
     } ,
     {
             "id": "lgyy",
@@ -656,7 +656,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/lgyy.js",
             "icons": ["https://ae01.alicdn.com/kf/Uc3c35e1796624a7ca6a23c89c7f0dff2H.jpg", "https://ae01.alicdn.com/kf/Uc3c35e1796624a7ca6a23c89c7f0dff2H.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/lgyy.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/lgyy.js"
     } ,
     {
             "id": "zqwn",
@@ -679,7 +679,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/zqwn.js",
             "icons": ["https://ae01.alicdn.com/kf/U1748aeaa81a54cdf8797ed3fc54d76ef3.jpg", "https://ae01.alicdn.com/kf/U1748aeaa81a54cdf8797ed3fc54d76ef3.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/zqwn.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/zqwn.js"
     } ,
     {
             "id": "hlyy",
@@ -709,7 +709,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/hlyy.js",
             "icons": ["https://ae01.alicdn.com/kf/U49d941738c0c41569f7db55825943375f.jpg", "https://ae01.alicdn.com/kf/U49d941738c0c41569f7db55825943375f.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/hlyy.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/hlyy.js"
     } ,
     {
             "id": "yqzh",
@@ -734,7 +734,7 @@
             }],
             "repo": "https://github.com/age174/-/blob/main/yqzh.js",
             "icons": ["https://ae01.alicdn.com/kf/U428ddcb68e304bc0822743cad88f5142n.jpg", "https://ae01.alicdn.com/kf/U428ddcb68e304bc0822743cad88f5142n.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/yqzh.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/yqzh.js"
     } ,
     {
             "id": "shq",
@@ -764,7 +764,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/shq.js",
             "icons": ["https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png", "https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/shq.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/shq.js"
     } ,
     {
             "id": "vsh",
@@ -794,7 +794,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/vsh.js",
             "icons": ["https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg", "https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/vsh.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/vsh.js"
     } ,
     {
             "id": "lhws",
@@ -817,7 +817,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/lhws.js",
             "icons": ["https://ae01.alicdn.com/kf/U7f67ec3bd2d848a59d72a1807dc9e324r.jpg", "https://ae01.alicdn.com/kf/U7f67ec3bd2d848a59d72a1807dc9e324r.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/lhws.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/lhws.js"
     } ,
     {
             "id": "ehy",
@@ -840,7 +840,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/ehy.js",
             "icons": ["https://ae01.alicdn.com/kf/Ua59aa6c4f1784bfc9a0f126a3d8b3fc6V.jpg", "https://ae01.alicdn.com/kf/Ua59aa6c4f1784bfc9a0f126a3d8b3fc6V.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ehy.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/ehy.js"
     } ,
     {
             "id": "blnc",
@@ -863,7 +863,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/blnc.js",
             "icons": ["https://ae01.alicdn.com/kf/U7bcabce8ea7644f18e3c84f65907e34bf.jpg", "https://ae01.alicdn.com/kf/U7bcabce8ea7644f18e3c84f65907e34bf.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/blnc.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/blnc.js"
     } ,
     {
             "id": "mmdzz",
@@ -886,7 +886,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/mmdzz.js",
             "icons": ["https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg", "https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/mmdzz.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/mmdzz.js"
     } ,
     {
             "id": "qhyd",
@@ -909,7 +909,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/qhyd.js",
             "icons": ["https://ae01.alicdn.com/kf/U413ab7460abb4a28b11deac3c5034243N.jpg", "https://ae01.alicdn.com/kf/U413ab7460abb4a28b11deac3c5034243N.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/qhyd.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/qhyd.js"
     } ,
     {
             "id": "zzsy",
@@ -932,7 +932,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/zzsy.js",
             "icons": ["https://ae01.alicdn.com/kf/Ub0056a0721e94c9a85a8bbeb2f2aed6fn.jpg", "https://ae01.alicdn.com/kf/Ub0056a0721e94c9a85a8bbeb2f2aed6fn.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/zzsy.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/zzsy.js"
     } ,
     {
             "id": "jjrm",
@@ -955,7 +955,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/jjrm.js",
             "icons": ["https://ae01.alicdn.com/kf/Uf3f262fb6d81492a8e350a0bb97a04a0g.jpg", "https://ae01.alicdn.com/kf/Uf3f262fb6d81492a8e350a0bb97a04a0g.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/jjrm.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/jjrm.js"
     } ,
     {
             "id": "sphz",
@@ -978,7 +978,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/sphz.js",
             "icons": ["https://ae01.alicdn.com/kf/U6fe8c098a65740039ac7767867746c4aK.jpg", "https://ae01.alicdn.com/kf/U6fe8c098a65740039ac7767867746c4aK.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/sphz.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/sphz.js"
     } ,
     {
             "id": "tpyqc",
@@ -1001,7 +1001,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/tpyqc.js",
             "icons": ["https://ae01.alicdn.com/kf/Uf51ecfcc4b0949e18441fc3f3f4919ede.jpg", "https://ae01.alicdn.com/kf/Uf51ecfcc4b0949e18441fc3f3f4919ede.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/tpyqc.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/tpyqc.js"
     } ,
     {
             "id": "xbgg",
@@ -1045,7 +1045,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/xbgg.js",
             "icons": ["https://ae01.alicdn.com/kf/U466ffce93b584c5babd1127f32f5ddebX.jpg", "https://ae01.alicdn.com/kf/U466ffce93b584c5babd1127f32f5ddebX.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/xbgg.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/xbgg.js"
     } ,
     {
             "id": "qlp",
@@ -1068,7 +1068,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/qlp.js",
             "icons": ["https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg", "https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/qlp.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/qlp.js"
     }  ,
     {
             "id": "bsly",
@@ -1091,7 +1091,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/bsly.js",
             "icons": ["https://ae01.alicdn.com/kf/U2fec2be787b74fb3928d83773822eef56.jpg", "https://ae01.alicdn.com/kf/U2fec2be787b74fb3928d83773822eef56.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/bsly.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/bsly.js"
     } ,
     {
             "id": "xfyjc",
@@ -1114,7 +1114,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/xfyjc.js",
             "icons": ["https://ae01.alicdn.com/kf/Ue110888eddad48a8a78d99284e599b134.jpg", "https://ae01.alicdn.com/kf/Ue110888eddad48a8a78d99284e599b134.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/xfyjc.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/xfyjc.js"
     } ,
     {
             "id": "jlkk",
@@ -1144,7 +1144,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/jlkk.js",
             "icons": ["https://ae01.alicdn.com/kf/U5ec6c2e565f64a9b989046ec478a85848.jpg", "https://ae01.alicdn.com/kf/U5ec6c2e565f64a9b989046ec478a85848.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/jlkk.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/jlkk.js"
     } ,
     {
             "id": "xbyd",
@@ -1167,7 +1167,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/xbyd.js",
             "icons": ["https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg", "https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/xbyd.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/xbyd.js"
     } ,
     {
             "id": "skjh",
@@ -1190,7 +1190,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/skjh.js",
             "icons": ["https://ae01.alicdn.com/kf/Ue353b658a4424a1e873d0b66620d06a41.jpg", "https://ae01.alicdn.com/kf/Ue353b658a4424a1e873d0b66620d06a41.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/skjh.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/skjh.js"
     } ,
     {
             "id": "scdcg",
@@ -1213,7 +1213,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/scdcg.js",
             "icons": ["https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg", "https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/scdcg.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/scdcg.js"
     } ,
     {
             "id": "tyg",
@@ -1236,7 +1236,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/tyg.js",
             "icons": ["https://ae01.alicdn.com/kf/Ud9336913fc5140ae886b06fccf9b90a3y.jpg", "https://ae01.alicdn.com/kf/Ud9336913fc5140ae886b06fccf9b90a3y.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/tyg.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/tyg.js"
     } ,
     {
             "id": "dgh",
@@ -1259,7 +1259,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/dgh.js",
             "icons": ["https://ae01.alicdn.com/kf/U48ac7674ccc7422dac2bb266d8c9a17b2.jpg", "https://ae01.alicdn.com/kf/U48ac7674ccc7422dac2bb266d8c9a17b2.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/dgh.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/dgh.js"
     } ,
     {
             "id": "fksl",
@@ -1282,7 +1282,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/fksl.js",
             "icons": ["https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg", "https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/fksl.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/fksl.js"
     } ,
     {
             "id": "csxdr",
@@ -1305,7 +1305,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/csxdr.js",
             "icons": ["https://ae01.alicdn.com/kf/Udd9cb36174cf41a7a69e28a643a360a9a.jpg", "https://ae01.alicdn.com/kf/Udd9cb36174cf41a7a69e28a643a360a9a.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/csxdr.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/csxdr.js"
     } ,
     {
             "id": "dwyjy",
@@ -1328,7 +1328,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/dwyjy.js",
             "icons": ["https://ae01.alicdn.com/kf/Uc740cff52d1c48c49223a8a7378a54d1q.jpg", "https://ae01.alicdn.com/kf/Uc740cff52d1c48c49223a8a7378a54d1q.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/dwyjy.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/dwyjy.js"
     } ,
     {
             "id": "wdwhd",
@@ -1351,7 +1351,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/wdwhd.js",
             "icons": ["https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg", "https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/wdwhd.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/wdwhd.js"
     } ,
     {
             "id": "qmxx",
@@ -1374,7 +1374,7 @@
     }],
             "repo": "https://github.com/age174/-/blob/main/qmxx.js",
             "icons": ["https://i0.hdslb.com/bfs/album/5d117c3f2a1a15fe692e50282b3e7beeebf96422.png", "https://i0.hdslb.com/bfs/album/5d117c3f2a1a15fe692e50282b3e7beeebf96422.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/qmxx.js"
+            "script": "https://raw.githubusercontent.com/y2038558528/sync/feizao/qmxx.js"
     } 
 ]
 }
