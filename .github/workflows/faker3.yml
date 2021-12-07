@@ -1,4 +1,4 @@
-name: 同步faker2仓库
+name: 同步faker3仓库
 on:
   schedule:
     - cron: '16 */6 * * *'
@@ -6,7 +6,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-shufflewzc-faker2
+    types: sync-shufflewzc-faker3
 jobs:
   repo-sync:
     env:
@@ -22,7 +22,7 @@ jobs:
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/shufflewzc/faker2.git"
+          source_repo: "https://github.com/shufflewzc/faker3.git"
           source_branch: "main"
-          destination_branch: "faker2"
+          destination_branch: "faker3"
           github_token: ${{ secrets.PAT }}
