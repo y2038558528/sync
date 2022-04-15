@@ -115,7 +115,7 @@ if (isGetCookie = typeof $request !== 'undefined') {
             await gameVideo();
             await readArticle();
             $.log("开始转盘抽奖任务");
-            for (k = 0; k < 5; k++) {
+            for (k = 0; k < 20; k++) {
                 await $.wait(s * 1000);
                 await rotary();
                 if (rotaryres.status == 0) {
