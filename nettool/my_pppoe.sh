@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #网络检测脚本 通过PING来判断网络互通状态
-#by:朱君绰绰 V1.5
+#by:ywk V1.1
 
 #shell测试命令
 #./my_pppoe.sh runA
